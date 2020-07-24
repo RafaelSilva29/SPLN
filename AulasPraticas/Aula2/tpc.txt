@@ -1,0 +1,4 @@
+-> replace split por findAll 
+-> filtro chamado myhead
+    - python myhead.py f1 f2
+    - 10 linhas de cada ficheiro
